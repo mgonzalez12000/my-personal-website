@@ -171,14 +171,13 @@ ul#services li{
 }
 
 footer{
-  text-align: center;
-  position: absolute;
+  position: fixed;
+  left: 0;
   bottom: 0;
   width: 100%;
-  height: 2.5rem; 
+  background-color:#35424a;
   color: white;
-  background-color: #35424a;
-  padding: 7px;
+  text-align: center;
 }
 
 /* Media Queries */
